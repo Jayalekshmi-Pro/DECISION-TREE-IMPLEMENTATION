@@ -52,7 +52,7 @@ Learning Outcomes:
 Understand the fundamental concepts behind decision trees and how they function.Gain practical experience in using Scikit-learn to implement machine learning models.Learn how to evaluate classification models using confusion matrix and accuracy scores.
 Understand the importance of visualizations in interpreting machine learning models.Develop skills in presenting machine learning workflows in a structured and documented notebook format.
 
-#OUTPUT
+OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/216bc2fb-6c22-4281-aa92-b23cf9863aa9)
 
